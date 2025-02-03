@@ -2,10 +2,10 @@
 > Delta Executor is provided for educational purposes only. Do not use it to disrupt games or harm other players. This project is not affiliated with Roblox Corporation.
 
 # Delta Executor
-Delta Executor is a Roblox executor (a script executor for Roblox games), built in Rust. It allows you to run custom scripts in Roblox using a graphical interface. Designed for Windows, it operates without being detected by anti-cheat systems. This project is maintained by [oothoo](https://github.com/oothoo).
+Delta Executor is a Roblox executor (a script executor for Roblox games), built in Rust. It allows you to run custom scripts in Roblox using a graphical interface. Designed for Windows, it operates without being detected by anti-cheat systems. This project is mainly maintained by [oothoo](https://github.com/oothoo).
 
 ## Download
-1. Go to the [Releases](https://github.com/oothoo/bug-free-succotash/releases) section of this repository.
+1. Go to the [Releases](https://github.com/oothoo/delta-exec-rs/releases) section of this repository.
 2. Download the latest version.
 3. Unzip the downloaded file.
 4. Run `DeltaExecutor.exe` (no installation required).
@@ -34,7 +34,7 @@ To compile Delta Executor yourself:
 1. Install [Rust](https://www.rust-lang.org/tools/install).
 2. Clone this repository:  
    ```
-   git clone https://github.com/oothoo/bug-free-succotash.git
+   git clone https://github.com/oothoo/delta-exec-rs.git
    ```
 3. Navigate to the project folder and build:  
    ```
