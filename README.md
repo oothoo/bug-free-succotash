@@ -8,7 +8,7 @@ Delta Executor is a Roblox executor (a script executor for Roblox games), built 
 1. Go to the [Releases](https://github.com/oothoo/delta-exec-rs/releases) section of this repository.
 2. Download the latest version.
 3. Unzip the downloaded file.
-4. Run `DeltaExecutor.exe` (no installation required).
+4. Run `Delta-Executor.exe` (no installation required).
 
 ## Usage
 1. Launch Roblox and join a game.
